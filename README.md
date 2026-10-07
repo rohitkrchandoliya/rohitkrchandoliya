@@ -90,13 +90,13 @@
 ┌──────────────────────────────────────────────────────────────────────┐
 │  ROHIT @ GITHUB                                                      │
 ├──────────────────────────────────────────────────────────────────────┤
-│  ROLE       → Founder / Builder                                     │
-│  COMPANY    → Cheakstar                                             │
-│  FOCUS      → AI & Automation                                       │
-│  BUILD      → Software & Digital Systems                            │
-│  EXPLORE    → Cybersecurity                                         │
-│  MINDSET    → Build → Test → Improve → Ship                         │
-│  STATUS     → BUILDING                                              │
+│  ROLE       → Founder / Builder                                      │
+│  COMPANY    → Cheakstar                                              │
+│  FOCUS      → AI & Automation                                        │
+│  BUILD      → Software & Digital Systems                             │
+│  EXPLORE    → Cybersecurity                                          │
+│  MINDSET    → Build → Test → Improve → Ship                          │
+│  STATUS     → BUILDING                                               │
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
