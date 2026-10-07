@@ -12,14 +12,17 @@
 <img src="https://img.shields.io/badge/GITHUB-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 &nbsp;
+
 <a href="https://linkedin.com/in/rohitkrchandoliya">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 &nbsp;
+
 <a href="https://instagram.com/rohitkrchandoliya">
 <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 </a>
 &nbsp;
+
 <a href="mailto:rohitkrchandoliya@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
@@ -48,13 +51,7 @@
 
 ---
 
-<div align="center">
-
-### `⌁ 𝗪 𝗛 𝗢 𝗔 𝗠 𝗜 ⌁`
-
-</div>
-
-<br>
+## `01` ── WHO I AM
 
 <div align="center">
 
@@ -62,56 +59,52 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=Founder+%40+Cheakstar;AI+%26+Automation+Builder;Software+Developer;Cybersecurity+Enthusiast" alt="Roles"/>
+<img src="https://img.shields.io/badge/FOUNDER%20%40%20CHEAKSTAR-111827?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/AI%20%26%20AUTOMATION%20BUILDER-111827?style=for-the-badge&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPER-111827?style=for-the-badge&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY%20ENTHUSIAST-111827?style=for-the-badge&logoColor=8B5CF6"/>
 
 </div>
 
 <br>
 
-I'm **Rohit Kumar Chandoliya** — Founder of **Cheakstar**, AI & Automation builder, software developer and cybersecurity enthusiast.
-
-I work at the intersection of:
-
-**Artificial Intelligence · Automation · Software Development · Cybersecurity · Business**
-
-I enjoy taking a problem from **idea → architecture → development → testing → execution** and turning it into something useful.
-
-My focus is not simply learning technologies.
-
-It's about **using technology to build systems that solve real problems.**
+> **Founder • Builder • Problem Solver**
+>
+> I'm **Rohit Kumar Chandoliya** — Founder of **Cheakstar**, AI & Automation builder, software developer and cybersecurity enthusiast.
+>
+> I work at the intersection of **Artificial Intelligence · Automation · Software Development · Cybersecurity · Business**.
+>
+> I enjoy taking a problem from **idea → architecture → development → testing → execution** and turning it into something useful.
+>
+> My focus is not simply learning technologies. It's about **using technology to build systems that solve real problems.**
 
 <br>
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   ROHIT @ GITHUB                                             │
-│                                                              │
-│   ROLE        → Founder / Builder                            │
-│   COMPANY     → Cheakstar                                   │
-│   FOCUS       → AI & Automation                             │
-│   BUILD       → Software & Digital Systems                  │
-│   EXPLORE     → Cybersecurity                                │
-│   MINDSET     → Build → Test → Improve → Ship               │
-│                                                              │
-│   STATUS      → BUILDING                                    │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+### `SYSTEM PROFILE`
 
 </div>
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  ROHIT @ GITHUB                                                      │
+├──────────────────────────────────────────────────────────────────────┤
+│  ROLE       → Founder / Builder                                     │
+│  COMPANY    → Cheakstar                                             │
+│  FOCUS      → AI & Automation                                       │
+│  BUILD      → Software & Digital Systems                            │
+│  EXPLORE    → Cybersecurity                                         │
+│  MINDSET    → Build → Test → Improve → Ship                         │
+│  STATUS     → BUILDING                                              │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
 <br>
 
 ---
 
-<div align="center">
-
-### `✦ 𝗔 𝗕 𝗢 𝗨 𝗧 · 𝗠 𝗘 ✦`
-
-</div>
+## `02` ── ABOUT ME
 
 <br>
 
@@ -143,11 +136,7 @@ Through **Cheakstar**, I'm focused on building technology products and solutions
 
 ---
 
-<div align="center">
-
-### `⚡ 𝗪 𝗛 𝗔 𝗧 · 𝗜 · 𝗕 𝗨 𝗜 𝗟 𝗗`
-
-</div>
+## `03` ── WHAT I BUILD
 
 <br>
 
@@ -244,11 +233,7 @@ My approach:
 
 ---
 
-<div align="center">
-
-### `⌬ 𝗧 𝗘 𝗖 𝗛 · 𝗦 𝗧 𝗔 𝗖 𝗞 ⌬`
-
-</div>
+## `04` ── TECH STACK
 
 <br>
 
@@ -331,11 +316,7 @@ My approach:
 
 ---
 
-<div align="center">
-
-### `✦ 𝗦 𝗘 𝗟 𝗘 𝗖 𝗧 𝗘 𝗗 · 𝗣 𝗥 𝗢 𝗝 𝗘 𝗖 𝗧 𝗦 ✦`
-
-</div>
+## `05` ── SELECTED PROJECTS
 
 <br>
 
@@ -389,11 +370,7 @@ A secure chat application focused on encrypted communication between users.
 
 ---
 
-<div align="center">
-
-### `⚡ 𝗖 𝗛 𝗘 𝗔 𝗞 𝗦 𝗧 𝗔 𝗥 ⚡`
-
-</div>
+## `06` ── CHEAKSTAR
 
 <br>
 
@@ -423,11 +400,7 @@ The long-term goal is to grow Cheakstar into a technology company creating meani
 
 ---
 
-<div align="center">
-
-### `◈ 𝗘 𝗫 𝗣 𝗘 𝗥 𝗜 𝗘 𝗡 𝗖 𝗘 ◈`
-
-</div>
+## `07` ── EXPERIENCE
 
 <br>
 
@@ -453,11 +426,7 @@ Building and experimenting with AI assistants, automation systems, workflow auto
 
 ---
 
-<div align="center">
-
-### `⌁ 𝗟 𝗘 𝗔 𝗗 𝗘 𝗥 𝗦 𝗛 𝗜 𝗣 ⌁`
-
-</div>
+## `08` ── LEADERSHIP
 
 <br>
 
@@ -481,11 +450,11 @@ Event planning, coordination and organizational experience.
 
 ---
 
-<div align="center">
-
-### `🏆 𝗔 𝗖 𝗛 𝗜 𝗘 𝗩 𝗘 𝗠 𝗘 𝗡 𝗧 𝗦`
+## `09` ── ACHIEVEMENTS
 
 <br>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/%F0%9F%A5%88%202ND%20PLACE-111827?style=for-the-badge&labelColor=020617&color=6366F1"/>
 
@@ -517,11 +486,7 @@ Certificate Automation System
 
 ---
 
-<div align="center">
-
-### `📕 𝗣 𝗨 𝗕 𝗟 𝗜 𝗖 𝗔 𝗧 𝗜 𝗢 𝗡`
-
-</div>
+## `10` ── PUBLICATION
 
 <br>
 
@@ -537,9 +502,9 @@ A cybersecurity-focused publication covering areas such as:
 
 <div align="center">
 
-<a href="https://play.google.com/store/books/details/Rohit_Kumar_Chandoliya_Secure_The_Future">
+<a href="https://www.google.co.in/books/edition/Secure_The_Future/LOjnEAAAQBAJ?hl=en&gbpv=0">
 
-<img src="https://img.shields.io/badge/📖%20READ%20THE%20BOOK-GOOGLE%20PLAY-414141?style=for-the-badge&logo=googleplay&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%96%20READ%20THE%20BOOK-GOOGLE%20BOOKS-414141?style=for-the-badge&logo=googlebooks&logoColor=white"/>
 
 </a>
 
@@ -549,11 +514,7 @@ A cybersecurity-focused publication covering areas such as:
 
 ---
 
-<div align="center">
-
-### `⌬ 𝗖 𝗬 𝗕 𝗘 𝗥 · 𝗟 𝗔 𝗕 ⌬`
-
-</div>
+## `11` ── CYBER LAB
 
 <br>
 
@@ -581,11 +542,7 @@ That perspective helps me build software with security in mind.
 
 ---
 
-<div align="center">
-
-### `🧠 𝗖 𝗨 𝗥 𝗥 𝗘 𝗡 𝗧 𝗟 𝗬 · 𝗟 𝗘 𝗔 𝗥 𝗡 𝗜 𝗡 𝗚`
-
-</div>
+## `12` ── CURRENTLY LEARNING
 
 <br>
 
@@ -613,11 +570,11 @@ Learning not only how to build software, but how to identify **what is actually 
 
 ---
 
-<div align="center">
-
-### `⚔ 𝗠 𝗜 𝗡 𝗗 𝗦 𝗘 𝗧 ⚔`
+## `13` ── MINDSET
 
 <br>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1700&pause=650&color=00E5FF&center=true&vCenter=true&width=700&lines=LEARN.;BUILD.;BREAK.;DEBUG.;IMPROVE.;SHIP." alt="Mindset"/>
 
@@ -637,11 +594,11 @@ The fastest way to understand technology is to use it to solve a real problem.
 
 ---
 
-<div align="center">
-
-### `✦ 𝗣 𝗛 𝗜 𝗟 𝗢 𝗦 𝗢 𝗣 𝗛 𝗬 ✦`
+## `14` ── PHILOSOPHY
 
 <br>
+
+<div align="center">
 
 ### **DON'T JUST LEARN TECHNOLOGY. BUILD WITH IT.**
 
@@ -663,11 +620,11 @@ The fastest way to understand technology is to use it to solve a real problem.
 
 ---
 
-<div align="center">
-
-### `◈ 𝗜 𝗡 𝗧 𝗘 𝗥 𝗘 𝗦 𝗧 𝗦 ◈`
+## `15` ── INTERESTS
 
 <br>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-111827?style=for-the-badge&logoColor=7C3AED"/>
 <img src="https://img.shields.io/badge/AUTOMATION-111827?style=for-the-badge&logoColor=06B6D4"/>
@@ -687,11 +644,11 @@ The fastest way to understand technology is to use it to solve a real problem.
 
 ---
 
-<div align="center">
-
-### `☕ 𝗦 𝗨 𝗣 𝗣 𝗢 𝗥 𝗧 · 𝗧 𝗛 𝗘 · 𝗕 𝗨 𝗜 𝗟 𝗗`
+## `16` ── SUPPORT THE BUILD
 
 <br>
+
+<div align="center">
 
 <a href="https://www.buymeacoffee.com/rohitkrchandoliya">
 
@@ -709,11 +666,11 @@ The fastest way to understand technology is to use it to solve a real problem.
 
 ---
 
-<div align="center">
-
-### `⌁ 𝗖 𝗢 𝗡 𝗡 𝗘 𝗖 𝗧 ⌁`
+## `17` ── CONNECT
 
 <br>
+
+<div align="center">
 
 ### `Got an interesting idea?`
 
