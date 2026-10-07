@@ -1,29 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,20:111827,50:4F46E5,80:06B6D4,100:050816&height=250&section=header&text=ROHIT%20KUMAR%20CHANDOLIYA&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=FOUNDER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20AI%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20SOFTWARE&descAlignY=58&descSize=15&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,20:111827,45:312E81,70:0E7490,100:020617&height=250&section=header&text=ROHIT%20KUMAR%20CHANDOLIYA&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=FOUNDER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20AI%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20CYBERSECURITY&descAlignY=58&descSize=14&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+AI-powered+systems+%F0%9F%A4%96;Automating+real-world+business+workflows+%E2%9A%A1;Turning+ideas+into+working+products+%F0%9F%9A%80;Exploring+Cybersecurity+%F0%9F%94%90;Founder+%40+Cheakstar+%F0%9F%8F%A2" alt="Typing Animation"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Initializing+RohitOS...;AI+%26+Automation+Builder;Software+Developer;Cybersecurity+Enthusiast;Founder+%40+Cheakstar;Building+systems+that+actually+work." alt="Typing Animation"/>
 
 <br><br>
 
 <a href="https://github.com/rohitkrchandoliya">
-<img src="https://img.shields.io/badge/GITHUB-PROFILE-0B0F19?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
+
 <a href="https://linkedin.com/in/rohitkrchandoliya">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
+
 <a href="https://instagram.com/rohitkrchandoliya">
-<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 </a>
+
 <a href="mailto:rohitkrchandoliya@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/FOUNDER-CHEAKSTAR-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20AUTOMATION-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INTEREST-CYBERSECURITY-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%26%20AUTOMATION-00B8D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-7C3AED?style=for-the-badge"/>
 
 </div>
 
@@ -33,224 +38,120 @@
 
 <div align="center">
 
-# `SYSTEM ONLINE`
+### `SYSTEM ONLINE`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&lines=%5BBOOT%5D+Initializing+RohitOS...;%5BOK%5D+AI+Systems+loaded;%5BOK%5D+Automation+Engine+loaded;%5BOK%5D+Software+Stack+loaded;%5BOK%5D+Cybersecurity+Lab+loaded;%5BREADY%5D+Build+mode+activated." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=720&lines=%5BBOOT%5D+Initializing+RohitOS...;%5BOK%5D+AI+systems+loaded;%5BOK%5D+Automation+engine+loaded;%5BOK%5D+Software+stack+loaded;%5BOK%5D+Security+lab+loaded;%5BREADY%5D+Build+mode+activated." alt="System Status"/>
 
 </div>
 
 <br>
 
-# `01 / IDENTITY`
+# `> whoami`
 
-<table>
-<tr>
-<td width="60%">
-
-## 👨‍💻 Rohit Kumar Chandoliya
-
-**Founder • Software Builder • AI & Automation**
-
-I build software systems that turn ideas into practical products.
+I'm **Rohit Kumar Chandoliya**, founder of **Cheakstar** and a software builder focused on turning ideas into practical technology.
 
 My interests sit at the intersection of:
 
-### `AI × AUTOMATION × SOFTWARE × CYBERSECURITY × BUSINESS`
+**Artificial Intelligence · Automation · Software Development · Cybersecurity · Business**
 
-I enjoy taking a real-world problem, breaking it into smaller systems, connecting the right technologies, and turning the solution into something useful.
+I enjoy taking a real-world problem, breaking it down, designing a solution, connecting the right technologies and turning the idea into something that actually works.
 
-I'm especially interested in systems where **AI doesn't just generate an answer — it actually performs work.**
-
-</td>
-
-<td width="40%">
+I'm particularly interested in systems where technology doesn't just **provide information** — it **performs useful work**.
 
 ```text
-┌─────────────────────────┐
-│      ROHIT.OS           │
-├─────────────────────────┤
-│                         │
-│  ROLE                   │
-│  ├─ Founder             │
-│  ├─ Builder             │
-│  └─ Developer           │
-│                         │
-│  CORE                   │
-│  ├─ AI                  │
-│  ├─ Automation          │
-│  ├─ Software            │
-│  └─ Security            │
-│                         │
-│  COMPANY                │
-│  └─ Cheakstar           │
-│                         │
-└─────────────────────────┘
+ROHIT @ GITHUB
+────────────────────────────────────────────────────────────
+
+ROLE        → Founder / Builder
+COMPANY     → Cheakstar
+FOCUS       → AI & Automation
+BUILD       → Software & Digital Systems
+EXPLORE     → Cybersecurity
+MINDSET     → Build → Test → Improve → Ship
+
+────────────────────────────────────────────────────────────
+STATUS      → BUILDING
 ```
 
-</td>
-</tr>
-</table>
+---
+
+# `> about.me`
+
+### 🧠 Problem Solver
+
+I like breaking complicated problems into smaller systems that can be understood, built and improved.
+
+### 🤖 AI Builder
+
+I'm interested in practical AI — especially AI that can interact with APIs, data, applications and business workflows.
+
+### ⚡ Automation Builder
+
+I enjoy connecting services together and turning repetitive manual processes into automated workflows.
+
+### 💻 Software Developer
+
+I build web applications, dashboards, APIs and software systems with a focus on functionality and user experience.
+
+### 🔐 Cybersecurity Enthusiast
+
+I'm exploring ethical hacking, web security, networking and secure software development.
+
+### 🚀 Founder
+
+Through **Cheakstar**, my goal is to build technology products that solve real problems and create real value.
 
 ---
 
-# `02 / COMMAND CENTER`
+# `> what.i.build`
 
-<div align="center">
+## 🤖 Artificial Intelligence
 
-<table>
-<tr>
-<td align="center" width="25%">
+I'm interested in building AI systems that go beyond simple chat interfaces.
 
-### 🤖
-**AI**
+### Areas I'm exploring
 
-Intelligent systems  
-AI workflows  
-AI-powered products
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡
-**AUTOMATION**
-
-n8n  
-APIs  
-Webhooks  
-Business workflows
-
-</td>
-
-<td align="center" width="25%">
-
-### 💻
-**SOFTWARE**
-
-Web apps  
-Dashboards  
-APIs  
-Products
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔐
-**SECURITY**
-
-Ethical hacking  
-Web security  
-Networking  
-Secure development
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# `03 / SYSTEM ARCHITECTURE`
-
-<div align="center">
-
-```text
-                         ┌─────────────────────┐
-                         │       PROBLEM       │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │     UNDERSTAND      │
-                         │       THE NEED      │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                 ┌─────────────────────────────────────┐
-                 │              SOLUTION               │
-                 │                                     │
-                 │      AI + SOFTWARE + DATA           │
-                 └──────────────────┬──────────────────┘
-                                    │
-                    ┌───────────────┼───────────────┐
-                    ▼               ▼               ▼
-              ┌──────────┐   ┌──────────┐   ┌──────────┐
-              │    AI    │   │   API    │   │ DATABASE │
-              └────┬─────┘   └────┬─────┘   └────┬─────┘
-                   │              │              │
-                   └──────────────┼──────────────┘
-                                  ▼
-                         ┌─────────────────┐
-                         │   AUTOMATION    │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │     PRODUCT     │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │   REAL USERS    │
-                         └─────────────────┘
-```
-
-</div>
-
----
-
-# `04 / WHAT I BUILD`
-
-<table>
-<tr>
-<td width="50%">
-
-## 🤖 AI SYSTEMS
-
-I am interested in building AI systems that go beyond simple chat interfaces.
-
-### My focus:
-
-- AI-powered workflows
-- Intelligent automation
-- AI-assisted business systems
+- AI-powered applications
+- AI automation
+- Intelligent workflows
+- AI agents
 - API-connected AI
+- AI-assisted business systems
 - AI content systems
-- AI agents and workflows
-- Practical AI applications
+- AI-powered decision workflows
 
-```text
-INPUT
-  ↓
-AI
-  ↓
-DECISION
-  ↓
-ACTION
-  ↓
-RESULT
-```
+My question isn't only:
 
-</td>
+> **"What can AI generate?"**
 
-<td width="50%">
+It's also:
 
-## ⚙️ AUTOMATION SYSTEMS
+> **"What can AI actually do?"**
 
-I like connecting different services into one intelligent workflow.
+---
 
-### Typical stack:
+## ⚡ Automation
+
+Automation is one of my strongest areas of interest.
+
+I like connecting different technologies into workflows that reduce repetitive work.
+
+### Technologies & concepts
+
+`n8n` · `Webhooks` · `REST APIs` · `JSON` · `Databases` · `AI` · `Business Logic`
+
+A typical automation can look like:
 
 ```text
 TRIGGER
    ↓
 WEBHOOK
    ↓
-AUTOMATION
+DATA PROCESSING
    ↓
-AI PROCESSING
+AI
+   ↓
+DECISION
    ↓
 API
    ↓
@@ -259,82 +160,100 @@ DATABASE
 ACTION
 ```
 
-The objective:
+The goal is simple:
 
-**Less manual work → faster execution → scalable processes**
+**Less manual work → smarter workflows → better systems**
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+## 💻 Software Development
 
-## 💻 SOFTWARE PRODUCTS
+I build and experiment with web-based applications, dashboards and business tools.
 
-I build and experiment with:
+### Development interests
 
-- Web applications
+- Frontend development
+- Backend development
+- REST APIs
+- Responsive interfaces
+- Database integration
+- Authentication systems
 - Business dashboards
-- Landing pages
 - Automation panels
-- API-based systems
-- Database-backed applications
-- Digital products
+- Product-oriented development
 
-I care about both:
+I care about both sides of software:
 
-**Engineering + User Experience**
+**How it works.**
 
-</td>
+**How it feels to use.**
 
-<td width="50%">
+---
 
-## 🔐 CYBERSECURITY
+## 🔐 Cybersecurity
 
-I'm exploring the security side of technology.
+Cybersecurity is an area I'm continuously exploring and developing deeper skills in.
 
-### Areas of interest:
+### Areas of interest
 
 - Ethical hacking
 - Web application security
 - Networking
 - Vulnerability analysis
-- Secure development
 - Security testing
+- Application security
+- Secure software development
+- Attack-surface understanding
 
-Understanding how systems fail helps build better systems.
+My mindset:
 
-</td>
-</tr>
-</table>
+> **To build secure systems, understand how systems can be broken.**
 
 ---
 
-# `05 / TECH MATRIX`
+# `> tech.stack`
 
 ## 🧠 Languages
 
-<div align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,php,html,css" />
 
-</div>
+</p>
+
+### Core development interests
+
+`Python` · `JavaScript` · `TypeScript` · `Java` · `PHP` · `HTML` · `CSS`
 
 ---
 
-## ⚛️ Development
+## ⚛️ Frontend & Web
 
-<div align="center">
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript" />
 
-</div>
+</p>
+
+`React` · `Next.js` · `JavaScript` · `TypeScript` · `HTML` · `CSS`
 
 ---
 
-## 🤖 AI / AUTOMATION
+## ⚙️ Backend & Databases
 
-<div align="center">
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgresql,mongodb,mysql,firebase,sqlite" />
+
+</p>
+
+`Node.js` · `Supabase` · `PostgreSQL` · `MongoDB` · `MySQL` · `Firebase` · `SQLite`
+
+---
+
+## 🤖 AI & Automation
+
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=python" />
 
@@ -342,266 +261,241 @@ Understanding how systems fail helps build better systems.
 
 <img src="https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Automation-4F46E5?style=for-the-badge&logo=zapier&logoColor=white"/>
+<img src="https://img.shields.io/badge/APIs-0F766E?style=for-the-badge"/>
 
-</div>
+<img src="https://img.shields.io/badge/Webhooks-4F46E5?style=for-the-badge"/>
 
----
-
-## 🗄️ Backend / Database
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgresql,mongodb,mysql,firebase,sqlite" />
-
-</div>
+</p>
 
 ---
 
-## 🛠️ Tools / Infrastructure
+## 🛠️ Tools & Environment
 
-<div align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,netlify" />
 
-</div>
+</p>
+
+`Git` · `GitHub` · `Linux` · `Docker` · `Netlify`
 
 ---
 
-# `06 / AI AUTOMATION LAB`
+# `> currently.building`
 
-<div align="center">
+## ⚡ AI Automation Systems
+
+I'm working on systems that combine:
+
+**AI + APIs + Automation + Databases + Business Logic**
+
+The idea is to create workflows that can receive information, process it intelligently, make decisions and perform useful actions with minimal manual intervention.
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                    AUTOMATION ENGINE                         ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║    USER / BUSINESS                                           ║
-║          │                                                   ║
-║          ▼                                                   ║
-║    ┌─────────────┐                                           ║
-║    │   TRIGGER   │                                           ║
-║    └──────┬──────┘                                           ║
-║           │                                                  ║
-║           ▼                                                  ║
-║    ┌─────────────┐                                           ║
-║    │   WEBHOOK   │                                           ║
-║    └──────┬──────┘                                           ║
-║           │                                                  ║
-║           ▼                                                  ║
-║    ┌─────────────┐                                           ║
-║    │     n8n     │                                           ║
-║    └──────┬──────┘                                           ║
-║           │                                                  ║
-║      ┌────┴────┐                                             ║
-║      ▼         ▼                                             ║
-║   ┌──────┐  ┌──────┐                                        ║
-║   │  AI  │  │ API  │                                        ║
-║   └──┬───┘  └──┬───┘                                        ║
-║      │         │                                             ║
-║      └────┬────┘                                             ║
-║           ▼                                                  ║
-║    ┌─────────────┐                                           ║
-║    │   DATABASE  │                                           ║
-║    └──────┬──────┘                                           ║
-║           │                                                  ║
-║           ▼                                                  ║
-║    ┌─────────────┐                                           ║
-║    │   ACTION    │                                           ║
-║    └──────┬──────┘                                           ║
-║           │                                                  ║
-║           ▼                                                  ║
-║      REAL RESULT                                             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+                  ┌───────────────┐
+                  │     INPUT     │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │   PROCESSING  │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │      AI       │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │    DECISION   │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │  AUTOMATION   │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │     ACTION    │
+                  └───────────────┘
 ```
-
-</div>
 
 ---
 
-# `07 / FEATURED SYSTEM`
+# `> featured.work`
 
 ## 🏠 AI Real Estate Marketing System
 
-An AI-powered workflow designed around real-estate marketing automation.
+One of the systems I've worked on is an AI-powered marketing automation platform for real estate businesses.
 
-### `SYSTEM FLOW`
+The concept combines property information, AI-generated marketing content and automated business workflows.
+
+### Core workflow
 
 ```text
-┌──────────────────┐
-│ PROPERTY DETAILS │
-└────────┬─────────┘
-         │
-         ▼
-┌──────────────────┐
-│    AI ENGINE     │
-└────────┬─────────┘
-         │
-         ▼
-┌──────────────────┐
-│ CONTENT CREATION │
-│                  │
-│ • Posts          │
-│ • Banners        │
-│ • Posters        │
-│ • Reels          │
-└────────┬─────────┘
-         │
-         ▼
-┌──────────────────┐
-│   AUTOMATION     │
-└────────┬─────────┘
-         │
-         ▼
-┌──────────────────┐
-│ SOCIAL / LEADS   │
-└──────────────────┘
+PROPERTY INFORMATION
+        ↓
+    AI PROCESSING
+        ↓
+  CONTENT GENERATION
+        ↓
+    AUTOMATION
+        ↓
+ SOCIAL MEDIA / LEADS
 ```
 
-### `CORE`
+### Technology
 
-`AI` `n8n` `APIs` `Webhooks` `Supabase` `Web Dashboard` `Automation`
+`AI` · `n8n` · `APIs` · `Webhooks` · `Supabase` · `JavaScript` · `Web Dashboard`
 
----
+The objective isn't simply to generate content.
 
-# `08 / PRODUCT ENGINEERING`
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-### `01`
-
-🧩  
-**PROBLEM**
-
-Understand what actually needs solving.
-
-</td>
-
-<td align="center">
-
-### `02`
-
-⚙️  
-**SYSTEM**
-
-Design the workflow.
-
-</td>
-
-<td align="center">
-
-### `03`
-
-🧠  
-**INTELLIGENCE**
-
-Add AI where it creates value.
-
-</td>
-
-<td align="center">
-
-### `04`
-
-🚀  
-**PRODUCT**
-
-Ship something usable.
-
-</td>
-</tr>
-</table>
-
-</div>
+The objective is to build a system where **business information can move through an intelligent automated pipeline and become useful output.**
 
 ---
 
-# `09 / CHEAKSTAR`
+# `> cheakstar`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CHEAKSTAR-PRIVATE%20LIMITED-6366F1?style=for-the-badge&logoColor=white"/>
-
-### `BUILDING TECHNOLOGY FOR REAL-WORLD PROBLEMS`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:312E81,100:06B6D4&height=100&section=header&text=CHEAKSTAR&fontSize=34&fontColor=FFFFFF&animation=fadeIn" width="80%"/>
 
 </div>
+
+<br>
 
 **Cheakstar** is my entrepreneurial focus.
 
-The long-term direction is around building technology products that combine:
+I'm interested in building technology products that combine:
+
+**AI · Automation · Software · Business Systems · Digital Products**
+
+The long-term objective is not to simply build software for the sake of building software.
+
+It's to create:
+
+**Useful technology → intelligent systems → real business value**
+
+I'm particularly interested in products where software can remove repetitive work, improve decision-making and make businesses more efficient.
+
+---
+
+# `> cyber.lab`
 
 ```text
-                    CHEAKSTAR
-                        │
-        ┌───────────────┼───────────────┐
-        │               │               │
-        ▼               ▼               ▼
-       AI          AUTOMATION       SOFTWARE
-        │               │               │
-        └───────────────┼───────────────┘
-                        │
-                        ▼
-                  BUSINESS VALUE
+┌───────────────────────────────────────────────────────────┐
+│                    CYBERSECURITY LAB                      │
+├───────────────────────────────────────────────────────────┤
+│                                                           │
+│  [01] WEB SECURITY                                        │
+│       Application security • Attack surfaces              │
+│                                                           │
+│  [02] ETHICAL HACKING                                      │
+│       Security testing • Vulnerability analysis           │
+│                                                           │
+│  [03] NETWORKING                                           │
+│       Network fundamentals • Communication                │
+│                                                           │
+│  [04] SECURE DEVELOPMENT                                   │
+│       Security-aware software engineering                 │
+│                                                           │
+│  [05] RESEARCH                                             │
+│       Learn → Experiment → Understand → Improve           │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
 ```
 
-The goal isn't to build technology just because it looks impressive.
+I'm interested in understanding both sides of technology:
 
-### The goal is:
+**How systems are built.**
 
-**Find a problem → build a system → automate the work → create value.**
+**How systems can fail.**
 
----
-
-# `10 / CURRENTLY EXPLORING`
-
-<div align="center">
-
-| AREA | EXPLORING |
-|:---:|:---|
-| 🤖 **Artificial Intelligence** | AI systems • AI automation • intelligent workflows |
-| ⚡ **Automation** | n8n • APIs • Webhooks • workflow architecture |
-| 💻 **Software Engineering** | Web applications • APIs • dashboards • products |
-| 🔐 **Cybersecurity** | Ethical hacking • web security • networking |
-| 🏢 **Entrepreneurship** | Product building • business systems • technology |
-
-</div>
+That mindset helps me think about security while building software.
 
 ---
 
-# `11 / ENGINEERING MINDSET`
+# `> currently.learning`
+
+### 🤖 AI Engineering
+
+Learning how AI can be integrated into real applications, workflows and business systems.
+
+### ⚡ Advanced Automation
+
+Going deeper into APIs, webhooks, workflow architecture, databases and AI-powered automation.
+
+### 🔐 Cybersecurity
+
+Developing stronger foundations in application security, ethical hacking and networking.
+
+### 🏗️ Software Architecture
+
+Learning how to design systems that are maintainable, scalable and easier to extend.
+
+### 🚀 Product Building
+
+Learning not only **how to build software**, but also **what software is worth building.**
+
+---
+
+# `> things.i.like`
+
+### 🧠 Problem Solving
+
+Taking complicated problems and turning them into understandable systems.
+
+### 🤖 Artificial Intelligence
+
+Finding practical ways to make software more intelligent.
+
+### ⚙️ Automation
+
+Looking for repetitive work that can be transformed into a system.
+
+### 💻 Software
+
+Turning ideas into usable products.
+
+### 🔐 Security
+
+Understanding how technology can be attacked and protected.
+
+### 🚀 Entrepreneurship
+
+Building technology around real-world needs and opportunities.
+
+---
+
+# `> engineering.mindset`
 
 <div align="center">
 
 ```text
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│                  BUILD SOMETHING                   │
-│                         │                          │
-│                         ▼                          │
-│                      TEST IT                       │
-│                         │                          │
-│                         ▼                          │
-│                      BREAK IT                      │
-│                         │                          │
-│                         ▼                          │
-│                     DEBUG IT                       │
-│                         │                          │
-│                         ▼                          │
-│                    IMPROVE IT                      │
-│                         │                          │
-│                         ▼                          │
-│                      SHIP IT                       │
-│                         │                          │
-│                         ▼                          │
-│                    REPEAT.                         │
-│                                                    │
-└────────────────────────────────────────────────────┘
+             ┌───────────────┐
+             │     THINK     │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │     BUILD     │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │     TEST      │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │     BREAK     │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │     DEBUG     │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │    IMPROVE    │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │     SHIP      │
+             └───────────────┘
 ```
 
 ### `LEARN → BUILD → BREAK → DEBUG → IMPROVE → SHIP`
@@ -610,115 +504,86 @@ The goal isn't to build technology just because it looks impressive.
 
 ---
 
-# `12 / BEYOND CODE`
+# `> beyond.code`
 
-Technology is only one part of building products.
+Building products requires more than writing code.
 
-I'm also interested in:
+### 🧩 Product Thinking
 
-<table>
-<tr>
-<td>
+Understanding what should actually be built before building it.
 
-🧠 **Problem Solving**
+### 🏗️ System Thinking
 
-Breaking complex problems into manageable systems.
+Understanding how different components interact with each other.
 
-</td>
-<td>
+### 📈 Business Thinking
 
-🏗️ **System Thinking**
+Connecting technology with real-world value.
 
-Understanding how components interact.
+### 🎯 User Experience
 
-</td>
-</tr>
+Making software functional, intuitive and enjoyable to use.
 
-<tr>
-<td>
+### 🔐 Security Thinking
 
-📈 **Business Thinking**
-
-Building technology around actual needs.
-
-</td>
-<td>
-
-🎯 **Product Thinking**
-
-Focusing on usefulness, not just features.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-🤖 **Automation Mindset**
-
-Looking for repetitive work that can become a system.
-
-</td>
-<td>
-
-🔐 **Security Mindset**
-
-Thinking about how systems can fail and how they can be protected.
-
-</td>
-</tr>
-</table>
+Considering security as part of development rather than an afterthought.
 
 ---
 
-# `13 / PERSONAL TECH STACK`
+# `> developer.philosophy`
 
 <div align="center">
 
-```text
-                   ┌───────────────┐
-                   │     ROHIT     │
-                   └───────┬───────┘
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-       BUILD            AUTOMATE          SECURE
-          │                │                │
-          ▼                ▼                ▼
-      SOFTWARE             AI          CYBERSECURITY
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                           ▼
-                     REAL PRODUCTS
-```
+### **DON'T JUST LEARN TECHNOLOGY. BUILD WITH IT.**
+
+<br>
+
+### **DON'T BUILD FEATURES. SOLVE PROBLEMS.**
+
+<br>
+
+### **DON'T CHASE COMPLEXITY. BUILD USEFUL SYSTEMS.**
+
+<br>
+
+### **DON'T WAIT FOR PERFECT. BUILD, TEST AND IMPROVE.**
 
 </div>
 
 ---
 
-# `14 / DEVELOPER PRINCIPLES`
-
-> ### **Don't just learn technology. Build with it.**
-
-> ### **Don't automate everything. Automate what matters.**
-
-> ### **Don't build features. Solve problems.**
-
-> ### **Don't chase complexity. Build useful systems.**
-
----
-
-# `15 / CONNECT`
+# `> interests`
 
 <div align="center">
 
-### Interested in building something interesting?
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AUTOMATION-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETHICAL%20HACKING-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/APIs-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ENTREPRENEURSHIP-CA8A04?style=for-the-badge"/>
 
-**AI · Automation · Software · Cybersecurity · Startups · Product Building**
+</div>
+
+---
+
+# `> connect`
+
+<div align="center">
+
+### `Got an interesting idea?`
+
+### `Building something?`
+
+### `Working on AI, automation, software or cybersecurity?`
 
 <br>
+
+**Let's connect.**
+
+<br><br>
 
 <a href="https://linkedin.com/in/rohitkrchandoliya">
 <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -734,22 +599,22 @@ Thinking about how systems can fail and how they can be protected.
 
 </div>
 
----
-
 <br>
+
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=600&color=00D9FF&center=true&vCenter=true&width=700&lines=BUILD.;AUTOMATE.;SECURE.;SHIP.;REPEAT." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1700&pause=600&color=00E5FF&center=true&vCenter=true&width=650&lines=BUILD.;AUTOMATE.;SECURE.;SHIP.;REPEAT." alt="Final Animation"/>
 
 <br><br>
 
-### ⚡ `BUILD. AUTOMATE. SECURE. SHIP.`
+### `ROHIT @ CHEAKSTAR`
 
-**Founder @ Cheakstar**
+**Building systems. Breaking limits. Shipping products.**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:4F46E5,100:050816&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:312E81,70:111827,100:020617&height=150&section=footer" width="100%"/>
 
 </div>
