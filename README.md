@@ -38,7 +38,7 @@
 <a href="#-selected-projects"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-0E7490?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Projects"/></a>
 <a href="#-tech-stack"><img src="https://img.shields.io/badge/TECH-STACK-312E81?style=for-the-badge&logo=codefactor&logoColor=C4B5FD" alt="Tech stack"/></a>
 <a href="#-achievements"><img src="https://img.shields.io/badge/ACHIEVEMENTS-TRACK-4338CA?style=for-the-badge&logo=target&logoColor=FFFFFF" alt="Achievements"/></a>
-<a href="#-connect"><img src="https://img.shields.io/badge/CONNECT-COLLABORATE-0E7490?style=for-the-badge&logo= handshake&logoColor=67E8F9" alt="Connect"/></a>
+<a href="#-connect"><img src="https://img.shields.io/badge/CONNECT-COLLABORATE-0E7490?style=for-the-badge&logo=handshake&logoColor=67E8F9" alt="Connect"/></a>
 
 </div>
 
@@ -228,6 +228,8 @@ My approach:
 
 ---
 
+<a id="tech-stack"></a>
+
 ## `04` ── TECH STACK
 
 <br>
@@ -310,6 +312,8 @@ My approach:
 <br>
 
 ---
+
+<a id="selected-projects"></a>
 
 ## `05` ── SELECTED PROJECTS
 
@@ -474,6 +478,8 @@ Event planning, coordination and organizational experience.
 <br>
 
 ---
+
+<a id="achievements"></a>
 
 ## `09` ── ACHIEVEMENTS
 
@@ -690,6 +696,8 @@ The fastest way to understand technology is to use it to solve a real problem.
 <br>
 
 ---
+
+<a id="connect"></a>
 
 ## `17` ── CONNECT
 
