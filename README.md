@@ -1,53 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,18:0F172A,42:312E81,68:0E7490,100:020617&height=280&section=header&text=ROHIT%20KUMAR%20CHANDOLIYA&fontSize=40&fontColor=FFFFFF&fontAlignY=36&desc=FOUNDER%20%E2%80%A2%20AI%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20CYBERSECURITY&descAlignY=56&descSize=14&animation=twinkling" width="100%"/>
+<!-- ANIMATED HERO — custom male developer illustration, created for Rohit -->
+<img src="./assets/profile/hero.svg" alt="Rohit Kumar Chandoliya — AI, automation, software and cybersecurity" width="100%"/>
 
-<br>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=INITIALIZING+ROHIT.OS...;AI+%26+AUTOMATION+BUILDER;SOFTWARE+DEVELOPER;CYBERSECURITY+ENTHUSIAST;FOUNDER+%40+CHEAKSTAR;TURNING+IDEAS+INTO+WORKING+SYSTEMS." alt="Typing Animation"/>
-
-<br><br>
-
-<a href="https://github.com/rohitkrchandoliya">
-<img src="https://img.shields.io/badge/GITHUB-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-</a>
+<a href="https://github.com/rohitkrchandoliya"><img src="https://img.shields.io/badge/GITHUB-05070D?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/></a>
 &nbsp;
-
-<a href="https://linkedin.com/in/rohitkrchandoliya">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-</a>
+<a href="https://linkedin.com/in/rohitkrchandoliya"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
 &nbsp;
-
-<a href="https://instagram.com/rohitkrchandoliya">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
-</a>
+<a href="https://instagram.com/rohitkrchandoliya"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"/></a>
 &nbsp;
+<a href="mailto:rohitkrchandoliya@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/></a>
 
-<a href="mailto:rohitkrchandoliya@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
-</a>
+<br/><br/>
 
-<br><br>
+<img src="./assets/profile/about-life.svg" alt="AI, automation and secure software focus panels" width="100%"/>
 
-<img src="https://img.shields.io/badge/FOUNDER-CHEAKSTAR-6366F1?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/AI%20%26%20AUTOMATION-00C2E8?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/CYBERSECURITY-8B5CF6?style=for-the-badge&labelColor=111827"/>
+<br/><br/>
+
+<img src="./assets/profile/stack.svg" alt="Animated technology stack" width="100%"/>
+
+<br/><br/>
+
+<img src="./assets/profile/id-dashboard.svg" alt="Rohit developer identity dashboard" width="100%"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=17&duration=1700&pause=650&color=00E5FF&center=true&vCenter=true&width=700&lines=LEARN.;BUILD.;BREAK.;DEBUG.;IMPROVE.;SHIP." alt="Learn build debug improve ship animation"/>
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:111827,100:020617&height=55&section=header&text=%E2%9A%A1%20SYSTEM%20ONLINE&fontSize=20&fontColor=00E5FF&animation=fadeIn" width="70%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=600&color=8B5CF6&center=true&vCenter=true&width=760&lines=%5BBOOT%5D+Initializing+RohitOS...;%5BOK%5D+AI+systems+loaded;%5BOK%5D+Automation+engine+loaded;%5BOK%5D+Software+stack+loaded;%5BOK%5D+Security+lab+loaded;%5BREADY%5D+Build+mode+activated." alt="System Status"/>
-
-</div>
-
-<br><br>
+<br/>
 
 ---
 
@@ -667,6 +651,14 @@ The fastest way to understand technology is to use it to solve a real problem.
 ---
 
 ## `17` ── CONNECT
+
+<br/>
+
+<div align="center">
+
+<img src="./assets/profile/connect.svg" alt="Let's build something useful together" width="100%"/>
+
+</div>
 
 <br>
 
