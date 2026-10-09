@@ -1,36 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Rohit OS — AI, Automation and Cybersecurity</title><desc id="desc">Animated futuristic male developer illustration with neon cyan and violet lighting.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">ROHIT.OS — AI, Automation, Software and Cybersecurity</title>
+<desc id="desc">A cinematic futuristic developer dashboard with a male developer avatar, animated HUD rings, scanline, system terminal and neon cyan-violet accents.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030712"/><stop offset=".52" stop-color="#111638"/><stop offset="1" stop-color="#061b2b"/></linearGradient>
- <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
- <radialGradient id="glow"><stop stop-color="#06b6d4" stop-opacity=".28"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient>
- <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030712"/><stop offset=".47" stop-color="#10152f"/><stop offset="1" stop-color="#061a29"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22d3ee"/><stop offset=".52" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+ <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f1c29b"/><stop offset="1" stop-color="#b97755"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#0891b2" stop-opacity=".32"/><stop offset="1" stop-color="#0891b2" stop-opacity="0"/></radialGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#67e8f9" stroke-opacity=".075" stroke-width="1"/></pattern>
+ <clipPath id="clip"><rect x="1" y="1" width="1198" height="388" rx="24"/></clipPath>
 </defs>
-<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-<circle cx="180" cy="110" r="150" fill="url(#glow)" filter="url(#blur)"/><circle cx="1010" cy="280" r="170" fill="#7c3aed" opacity=".12" filter="url(#blur)"/>
-<g stroke="#67e8f9" stroke-opacity=".13"><path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200"/><path d="M100 0V360M200 0V360M300 0V360M400 0V360M500 0V360M600 0V360M700 0V360M800 0V360M900 0V360M1000 0V360M1100 0V360"/></g>
-<rect x="28" y="28" width="1144" height="304" rx="18" fill="none" stroke="url(#neon)" stroke-opacity=".55"/>
-<g transform="translate(95 38)">
- <circle cx="120" cy="112" r="82" fill="#0e7490" opacity=".18"><animate attributeName="r" values="78;88;78" dur="4s" repeatCount="indefinite"/></circle>
- <path d="M45 260 Q48 185 83 172 L101 164 L139 164 L160 173 Q192 188 198 260Z" fill="#111827" stroke="#22d3ee" stroke-width="2"/>
- <path d="M79 177 L119 218 L159 177 L145 163 L95 163Z" fill="#1f2937" stroke="#64748b"/>
- <path d="M92 163 L119 202 L147 163 L138 143 L101 143Z" fill="#d6a17c"/>
- <path d="M75 94 Q72 49 119 47 Q168 48 165 101 L156 133 Q146 157 119 159 Q91 155 82 130Z" fill="#c98f6b"/>
- <path d="M72 101 Q61 57 94 36 Q126 17 155 43 Q177 61 166 103 L155 83 L148 65 Q120 78 91 65 L82 90Z" fill="#111827" stroke="#334155" stroke-width="2"/>
- <path d="M86 104 Q99 96 109 104 M130 104 Q141 96 151 103" fill="none" stroke="#111827" stroke-width="4" stroke-linecap="round"/>
- <path d="M111 126 Q120 132 130 125" fill="none" stroke="#7c2d12" stroke-width="2" stroke-linecap="round"/>
- <path d="M87 180 L72 221 L97 238 M152 180 L168 219 L143 238" fill="none" stroke="#22d3ee" stroke-width="5" stroke-linecap="round"/>
- <path d="M92 176 L119 206 L147 176" fill="none" stroke="#8b5cf6" stroke-width="3"/>
- <circle cx="165" cy="218" r="5" fill="#22d3ee"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle>
-</g>
-<g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
- <text x="355" y="86" fill="#67e8f9" font-size="16" letter-spacing="4">[ SYSTEM ONLINE ]</text>
- <text x="350" y="148" fill="#f8fafc" font-size="44" font-weight="800">ROHIT KUMAR</text><text x="350" y="198" fill="#f8fafc" font-size="44" font-weight="800">CHANDOLIYA</text>
- <rect x="352" y="218" width="520" height="2" fill="url(#neon)"><animate attributeName="width" values="180;520;420;520" dur="5s" repeatCount="indefinite"/></rect>
- <text x="355" y="253" fill="#c4b5fd" font-size="20">FOUNDER @ CHEAKSTAR</text>
- <text x="355" y="285" fill="#cbd5e1" font-size="16">AI  /  AUTOMATION  /  SOFTWARE  /  SECURITY</text>
- <text x="1000" y="65" fill="#67e8f9" font-size="13" text-anchor="middle">ROHIT.OS</text>
- <g transform="translate(940 112)"><rect width="170" height="130" rx="12" fill="#020617" fill-opacity=".7" stroke="#334155"/><text x="16" y="26" fill="#22d3ee" font-size="12">$ whoami</text><text x="16" y="52" fill="#e2e8f0" font-size="13">builder</text><text x="16" y="76" fill="#e2e8f0" font-size="13">problem solver</text><text x="16" y="100" fill="#e2e8f0" font-size="13">lifelong learner</text><circle cx="154" cy="16" r="4" fill="#34d399"><animate attributeName="opacity" values="1;.25;1" dur="1.5s" repeatCount="indefinite"/></circle></g>
-</g>
-<circle cx="75" cy="300" r="3" fill="#22d3ee"><animate attributeName="cy" values="300;280;300" dur="3s" repeatCount="indefinite"/></circle><circle cx="1120" cy="86" r="3" fill="#a78bfa"><animate attributeName="cy" values="86;102;86" dur="2.5s" repeatCount="indefinite"/></circle>
-</svg>
+<g clip-path="url(#clip)">
+ <rect width="1200" height="390" rx="24" fill="url(#bg)"/><rect width="1200" height="390" fill="url(#grid)"/>
+ <circle cx="205" cy="172" r="180" fill="url(#glow)" filter="url(#blur)"/><circle cx="1080" cy="240" r="190" fill="#6d28d9" opacity=".13" filter="url(#blur)"/>
+ <path d="M0 315H1200M0 75H1200" stroke="#22d3ee" stroke-opacity=".12"/>
+ <rect x="15" y="15" width="1170" height="360" rx="19" fill="none" stroke="url(#neon)" stroke-opacity=".65"/>
+ <g fill="#67e8f9" opacity=".7"><circle cx="46" cy="48" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle><circle cx="1153" cy="332" r="2"><animate attributeName="opacity" values="1;.2;1" dur="2.6s" repeatCount="indefinite"/></circle><circle cx="305" cy="48" r="1.5"><animate attributeName="cy" values="48;57;48" dur="3s" repeatCount="indefinite"/></circle><circle cx="870" cy="344" r="1.5"><animate attributeName="cy" values="344;333;344" dur="2.7s" repeatCount="indefinite"/></circle></g>
+ <!-- Animated male developer avatar -->
+ <g transform="translate(66 36)">
+  <circle cx="142" cy="151" r="103" fill="#0e7490" opacity=".12"/>
+  <circle cx="142" cy="151" r="93" fill="none" stroke="url(#neon)" stroke-opacity=".55" stroke-width="1.5" stroke-dasharray="9 12"><animateTransform attributeName="transform" type="rotate" from="0 142 151" to="360 142 151" dur="34s" repeatCount="indefinite"/></circle>
+  <circle cx="142" cy="151" r="80" fill="none" stroke="#67e8f9" stroke-opacity=".2" stroke-dasharray="2 8"/>
+  <path d="M49 324Q55 246 88 228L112 214L174 214L198 228Q231 248 237 324Z" fill="#101827" stroke="#22d3ee" stroke-width="2"/>
+  <path d="M110 215L142 252L175 215L164 198H121Z" fill="#1f2937" stroke="#475569"/>
+  <path d="M117 190L112 218L142 248L173 218L167 190Z" fill="url(#skin)"/>
+  <path d="M98 113Q92 65 140 61Q189 63 185 116L176 157Q167 185 142 188Q115 184 105 157Z" fill="url(#skin)"/>
+  <path d="M96 121Q81 78 111 51Q138 27 169 49Q197 68 189 120L178 94L170 78Q140 91 112 75L104 103Z" fill="#101827" stroke="#334155" stroke-width="2"/>
+  <path d="M110 127Q121 119 131 127M153 127Q163 119 174 126" fill="none" stroke="#172033" stroke-width="4" stroke-linecap="round"/>
+  <path d="M136 148L142 151L148 147M131 164Q142 171 153 163" fill="none" stroke="#7c2d12" stroke-width="2" stroke-linecap="round"/>
+  <path d="M111 232L142 270L174 232" fill="none" stroke="#8b5cf6" stroke-width="4"/>
+  <path d="M92 231L76 278L96 297M193 231L208 278L188 297" fill="none" stroke="#22d3ee" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="207" cy="277" r="5" fill="#22d3ee"><animate attributeName="r" values="3;6;3" dur="1.8s" repeatCount="indefinite"/></circle>
+  <path d="M48 185H28V160M235 185H256V160M48 91H28V115M235 91H256V115" fill="none" stroke="#67e8f9" stroke-opacity=".8" stroke-width="2"/>
+  <rect x="20" y="300" width="244" height="30" rx="8" fill="#020617" stroke="#155e75"/><text x="142" y="320" fill="#67e8f9" font-family="monospace" font-size="12" text-anchor="middle">HUMAN IN THE LOOP <animate attributeName="opacity" values=".65;1;.65" dur="2s" repeatCount="indefinite"/></text>
+ </g>
+ <!-- Name and positioning -->
+ <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+  <text x="365" y="61" fill="#67e8f9" font-size="14" letter-spacing="4">[ SYSTEM INITIALIZED ]</text>
+  <text x="360" y="122" fill="#f8fafc" font-size="39" font-weight="800">ROHIT KUMAR</text>
+  <text x="360" y="169" fill="#f8fafc" font-size="39" font-weight="800">CHANDOLIYA</text>
+  <rect x="362" y="188" width="520" height="2" rx="1" fill="url(#neon)"><animate attributeName="width" values="80;520;390;520" dur="7s" repeatCount="indefinite"/></rect>
+  <text x="365" y="222" fill="#c4b5fd" font-size="18" font-weight="700">FOUNDER @ CHEAKSTAR</text>
+  <text x="365" y="253" fill="#cbd5e1" font-size="14">AI SYSTEMS  /  AUTOMATION  /  SOFTWARE</text>
+  <text x="365" y="275" fill="#cbd5e1" font-size="14">APPLICATION SECURITY  /  PRODUCT BUILDING</text>
+  <g transform="translate(362 299)">
+   <rect width="110" height="29" rx="7" fill="#083344" stroke="#0891b2"/><text x="55" y="19" fill="#a5f3fc" font-size="11" text-anchor="middle">DESIGN</text>
+   <rect x="120" width="110" height="29" rx="7" fill="#1e1b4b" stroke="#6366f1"/><text x="175" y="19" fill="#ddd6fe" font-size="11" text-anchor="middle">BUILD</text>
+   <rect x="240" width="110" height="29" rx="7" fill="#172554" stroke="#2563eb"/><text x="295" y="19" fill="#bfdbfe" font-size="11" text-anchor="middle">SECURE</text>
+   <rect x="360" width="110" height="29" rx="7" fill="#052e2b" stroke="#059669"/><text x="415" y="19" fill="#a7f3d0" font-size="11" text-anchor="middle">SHIP</text>
+  </g>
+  <!-- Terminal card -->
+  <g transform="translate(920 80)">
+   <rect width="230" height="220" rx="13" fill="#020617" fill-opacity=".88" stroke="#334155"/>
+   <path d="M0 39H230" stroke="#334155"/>
+   <circle cx="17" cy="19" r="4" fill="#fb7185"/><circle cx="31" cy="19" r="4" fill="#fbbf24"/><circle cx="45" cy="19" r="4" fill="#34d399"/>
+   <text x="60" y="23" fill="#94a3b8" font-size="10">rohit@rohit-os</text>
+   <text x="16" y="63" fill="#67e8f9" font-size="12">$ whoami</text>
+   <text x="16" y="84" fill="#e2e8f0" font-size="12">founder / builder</text>
+   <text x="16" y="111" fill="#67e8f9" font-size="12">$ focus --now</text>
+   <text x="16" y="132" fill="#e2e8f0" font-size="12">AI + automation</text>
+   <text x="16" y="153" fill="#e2e8f0" font-size="12">software + security</text>
+   <text x="16" y="180" fill="#67e8f9" font-size="12">$ status</text>
+   <text x="16" y="201" fill="#34d399" font-size="12">● BUILDING <animate attributeName="opacity" values=".4;1;.4" dur="1.7s" repeatCount="indefinite"/></text>
+  </g>
+ </g>
+ <!-- Scanline -->
+ <rect x="20" y="22" width="1160" height="2" fill="#67e8f9" opacity=".35"><animate attributeName="y" values="22;365;22" dur="9s" repeatCount="indefinite"/></rect>
+</g></svg>
