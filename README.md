@@ -33,6 +33,17 @@
 
 <br/>
 
+<div align="center">
+
+<a href="#-selected-projects"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-0E7490?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Projects"/></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/TECH-STACK-312E81?style=for-the-badge&logo=codefactor&logoColor=C4B5FD" alt="Tech stack"/></a>
+<a href="#-achievements"><img src="https://img.shields.io/badge/ACHIEVEMENTS-TRACK-4338CA?style=for-the-badge&logo=target&logoColor=FFFFFF" alt="Achievements"/></a>
+<a href="#-connect"><img src="https://img.shields.io/badge/CONNECT-COLLABORATE-0E7490?style=for-the-badge&logo= handshake&logoColor=67E8F9" alt="Connect"/></a>
+
+</div>
+
+<br/>
+
 ---
 
 ## `01` ── WHO I AM
@@ -302,7 +313,37 @@ My approach:
 
 ## `05` ── SELECTED PROJECTS
 
+<div align="center">
+
+<img src="./assets/profile/projects.svg" alt="Animated showcase of selected AI, security, automation and certificate projects" width="100%"/>
+
+<br/>
+
+<a href="https://github.com/rohitkrchandoliya/CS--Ai-Assistant"><img src="https://img.shields.io/badge/01-AI%20DESKTOP%20ASSISTANT-083344?style=for-the-badge&logo=github&logoColor=67E8F9" alt="AI Desktop Assistant repository"/></a>
+<a href="https://github.com/rohitkrchandoliya/ai-appsec-platform"><img src="https://img.shields.io/badge/02-AI%20APPSEC%20PLATFORM-1E1B4B?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="AI AppSec Platform repository"/></a>
+<a href="https://github.com/rohitkrchandoliya/autonomous-youtube-factory"><img src="https://img.shields.io/badge/03-YOUTUBE%20FACTORY-083344?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Autonomous YouTube Factory repository"/></a>
+<a href="https://github.com/rohitkrchandoliya/Event-Certificates-Automation"><img src="https://img.shields.io/badge/04-CERTIFICATE%20AUTOMATION-2E1065?style=for-the-badge&logo=github&logoColor=DDD6FE" alt="Event Certificates Automation repository"/></a>
+
+</div>
+
+<br/>
+
+### GitHub at a glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitkrchandoliya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub profile stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkrchandoliya&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rohitkrchandoliya&theme=transparent&hide_border=true&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=94A3B8" alt="GitHub contribution streak"/>
+
+</div>
+
 <br>
+
+
 
 ## `01` ◈ 𝗦𝗘𝗟𝗙 · 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 · 𝗔𝗜 · 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗧
 
