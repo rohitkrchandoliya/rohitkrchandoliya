@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HERO — custom male developer illustration, created for Rohit -->
-<img src="./assets/profile/hero.svg" alt="Rohit Kumar Chandoliya — AI, automation, software and cybersecurity" width="100%"/>
+<img src="./assets/profile/hero-banner.jpg" alt="Rohit Kumar Chandoliya — AI, automation, software and cybersecurity" width="100%"/>
 
 <br/><br/>
 
