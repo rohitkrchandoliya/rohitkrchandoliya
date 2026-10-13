@@ -20,7 +20,7 @@
   <circle cx="174" cy="172" r="139" fill="none" stroke="url(#neon)" stroke-width="5" opacity=".9"/>
   <circle cx="174" cy="172" r="126" fill="none" stroke="#22d3ee" stroke-width="2" stroke-dasharray="8 10" opacity=".8"><animateTransform attributeName="transform" type="rotate" from="0 174 172" to="360 174 172" dur="32s" repeatCount="indefinite"/></circle>
   <circle cx="174" cy="172" r="113" fill="#061426" stroke="#164e63" stroke-width="2"/>
-  <image href="rohit-portrait.png" x="63" y="8" width="222" height="287" preserveAspectRatio="xMidYMid meet"/>
+  <image href="https://raw.githubusercontent.com/rohitkrchandoliya/rohitkrchandoliya/main/assets/profile/rohit-portrait.png" x="63" y="8" width="222" height="287" preserveAspectRatio="xMidYMid meet"/>
   <path d="M30 102H10V132M318 102H338V132M30 245H10V215M318 245H338V215" fill="none" stroke="#67e8f9" stroke-width="2.5" opacity=".9"/>
   <rect x="30" y="310" width="288" height="42" rx="15" fill="#03101f" stroke="#22d3ee" stroke-width="2"/>
   <text x="174" y="336" fill="#e0faff" font-family="ui-monospace,monospace" font-size="17" font-weight="800" text-anchor="middle" letter-spacing="1">HUMAN IN THE LOOP</text>
